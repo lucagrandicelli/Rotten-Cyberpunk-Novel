@@ -13,7 +13,7 @@ Charlotte is a young rockstar from the Block 31 who struggles to survive between
 Rotten is a journey through the abysses of soul and mind, in search of a truth hidden under the skin and a past too heavy to bear.
 
 ## Book Chapters
-1. Awakening
+1. [Awakening](chapter1-awakening.md)
 2. Bar Mexico
 3. A wayout
 4. Limbo
