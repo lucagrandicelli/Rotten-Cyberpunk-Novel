@@ -5,7 +5,7 @@
 
 Rotten is a revolution of the mind. Writing that becomes psychoanalysis and pierces the reader's heart, throwing him into a whirlwind of emotions and action, where the real challenge is to arrive alive until the end.
 
-Luca Grandicelli signs his debut novel with a story bordering on madness: a book that is like a punch in the stomach and one in the heart; which leaves you breathless but at the same time irrevocably denounces the fragility and cruelty of the human soul.
+> Luca Grandicelli signs his debut novel with a story bordering on madness: a book that is like a punch in the stomach and one in the heart; which leaves you breathless but at the same time irrevocably denounces the fragility and cruelty of the human soul.
 
 ### The story
 Charlotte is a young rockstar from the Block 31 who struggles to survive between synthetic heroin and punk gigs. When her lifelong manager finds her pouring into a puddle of vomit in bathroom N°5 of the Bar Mexico, she realizes she's sinking one step at a time into the abyss. But the Sprawl has a much more bitter future in store for her.
