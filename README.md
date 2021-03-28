@@ -14,7 +14,7 @@ Rotten is a journey through the abysses of soul and mind, in search of a truth h
 
 ## Book Chapters
 1. [Awakening](chapter1-awakening.md)
-2. Bar Mexico
+2. [Bar Mexico](chapter2-bar-mexico.md)
 3. A wayout
 4. Limbo
 5. Rubber boots
