@@ -25,16 +25,16 @@ Rotten is a journey through the abysses of soul and mind, in search of a truth h
 10. Ash blonde
 11. Epilogue
 
-**Note from the author**\
-*Rotten is a work of fantasy. The story, all names, characters, and incidents portrayed in this book are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred.*
-
+### Disclaimer
 **Given the nature of the contents and the style with which they are narrated, this book is for ADULT AUDIENCES ONLY. It contains substantial sexually explicit scenes and violence which may be considered offensive by some readers. Readers discretion is advised.**
 
-**Language Disclaimer**\
+### Note from the author
+*Rotten is a work of fantasy. The story, all names, characters, and incidents portrayed in this book are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred.
+
 Since english is not my native language, i tried to translate the whole text preserving the original style, using sometimes terms and words that might sound particular. If you encounter any mistake, please let me know and report in the comments or open a PR on the book's [Github Page](https://github.com/lucagrandicelli/Rotten-Cyberpunk-Novel).
 **Thank you**.
 
-**Wanna translate this book?**
+### Wanna translate this book?
 If you'd like to translate this book, please fork this repo and submit your PR.
 
 ---
